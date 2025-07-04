@@ -27,9 +27,9 @@ I'm a passionate **Full-Stack Developer** with a strong interest in building sca
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: roshanchauhan112@gmail.com  
+- 📧 Email: roshanchauhan7398945296@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/roshanchauhan112](https://www.linkedin.com/in/roshanchauhan112)  
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: https://roshan-chauhan-portfolio.vercel.app/
 
 ---
 
