@@ -34,7 +34,7 @@ I'm a passionate **Full-Stack Developer** with a strong interest in building sca
 ---
 
 ### 😄 Pronouns:
-He/Him
+He
 
 ---
 
